@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="255" src="https://cdn.discordapp.com/attachments/1000631697194369137/1226533462207631413/sayaka_gruvbox_gif.gif?ex=66251d4d&is=6612a84d&hm=2d4dcf61a2b1739c129a04598a1525fa33242769e31099214c28bac75fd2a5a4&"  />
+<img align="right" height="255" src="https://raw.githubusercontent.com/flowerqirl/flowerqirl/main/sayaka_gruvbox_gif.gif"  />
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
