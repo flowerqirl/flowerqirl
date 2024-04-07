@@ -15,8 +15,6 @@
 
 <img align="right" height="255" src="https://cdn.discordapp.com/attachments/1000631697194369137/1226533462207631413/sayaka_gruvbox_gif.gif?ex=66251d4d&is=6612a84d&hm=2d4dcf61a2b1739c129a04598a1525fa33242769e31099214c28bac75fd2a5a4&"  />
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
@@ -31,20 +29,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://discordapp.com/users/112696376453775360" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
-  </a>
-  <a href="https://www.youtube.com/@flowerqirl_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
-  </a>
-  <a href="https://twitter.com/jvniperchance" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
-  </a>
-</div>
-
-###
-
 <p align="left">I'm a pretty casual GitHub user, I'm mainly busy with college work which doesn't use GitHub for version control. But I might mess around with some personal projects on here occasionally!<br><br>My OS of choice is <b>Arch Linux</b>, on which I use <b>i3-gaps</b> and <b>Alacritty</b> with <b>tmux</b>. I usually work in <b>Neovim</b>b and my preferred color theme is <b>Gruvbox</b>. I am completely aware that this is one of - <i>if not the most</i> - basic/stereotypical setups, but hey man, <i>it just gets the job done!</i></p>
-
-###
