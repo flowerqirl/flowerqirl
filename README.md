@@ -27,4 +27,4 @@
 
 ###
 
-<p align="left">I'm a pretty casual GitHub user, I'm mainly busy with college work which doesn't use GitHub for version control. But I might mess around with some personal projects on here occasionally!<br><br>My OS of choice is <b>Arch Linux</b>, on which I use <b>i3-gaps</b> and <b>Alacritty</b> with <b>tmux</b>. I usually work in <b>Neovim</b>b and my preferred color theme is <b>Gruvbox</b>. I am completely aware that this is one of - <i>if not the most</i> - basic/stereotypical setups, but hey man, <i>it just gets the job done!</i></p>
+<p align="left">I'm a pretty casual GitHub user, I'm mainly busy with college work which doesn't use GitHub for version control. But I might mess around with some personal projects on here occasionally!<br><br>My OS of choice is <b>Arch Linux</b>, on which I use <b>i3-gaps</b> and <b>Alacritty</b> with <b>tmux</b>. I usually work in <b>Neovim</b> and my preferred color theme is <b>Gruvbox</b>. I am completely aware that this is one of - <i>if not the most</i> - basic/stereotypical setups, but hey man, <i>it just gets the job done!</i></p>
