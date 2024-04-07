@@ -13,8 +13,6 @@
 
 ###
 
-<img align="right" height="255" src="https://raw.githubusercontent.com/flowerqirl/flowerqirl/main/sayaka_gruvbox_gif.gif"  />
-
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
