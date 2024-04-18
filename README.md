@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="280" src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha9w_5QT1SrjM0wiag9QZSjBlYc7aCnbEUGmHQKntDCZ0KZ1nl779J7iZZjBpNZ62gZ9UnDfi3QMjlfAMIpqOrvJLWUikMjAcI=s2560" />
+<img align="right" height="250" src="https://lh3.googleusercontent.com/drive-viewer/AKGpiha9w_5QT1SrjM0wiag9QZSjBlYc7aCnbEUGmHQKntDCZ0KZ1nl779J7iZZjBpNZ62gZ9UnDfi3QMjlfAMIpqOrvJLWUikMjAcI=s2560" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
